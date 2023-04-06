@@ -1,5 +1,3 @@
-// https://github.com/MatteoHenryChinaski/Comuni-Italiani-2018-Sql-Json-excel/blob/db1b506a4290aa56a5cfe68906f223a7f65c9beb/italy_geo.json
-// il json da cui ho preso i valori di latitudine e longitudine si trova nel database di @MatteoHenryChinaski
 [
 	{
 		"istat": "1001",
