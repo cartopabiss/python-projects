@@ -1,4 +1,4 @@
-#progetto Meteo
+# Progetto Meteo
 l'idea è quella di realizzare un progamma che mostri i dati meteorologici di una località inserita dall'utente
 
 ## Parte 1 progetto Meteo
@@ -12,5 +12,4 @@ il file [risp_api.json](https://github.com/cartopabiss/python-projects/blob/main
 
 ## Parte 2 progetto Meteo 
 implemetare un'interfaccia grafica alla prima parte del progetto
-
-### in corso ..............
+in corso ..............
