@@ -11,5 +11,7 @@ il file .json [lat_lot.json]("https://github.com/cartopabiss/python-projects/blo
 il file [risp_api.json](https://github.com/cartopabiss/python-projects/blob/main/meteo/data/risp_api.json) contiene la riposta della richiesta effettuata a [openMeteo](https://open-meteo.com/en/docs/marine-weather-api#api_form) tramite il metodo request(). Il file contiene i dati metereologici della località inserita in input da tastiera nel programma
 
 ## Parte 2 progetto Meteo 
-implemetare un'interfaccia grafica alla prima parte del progetto
+implemetare un'interfaccia grafica alla prima parte del progetto utilizzando la libreria di python [tkinter](https://docs.python.org/3/library/tkinter.html)
 #### in corso ..............
+
+
